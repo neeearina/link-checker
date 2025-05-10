@@ -1,0 +1,33 @@
+# Доступные URL
+https://github.com
+https://www.google.com
+https://golang.org
+https://www.youtube.com
+https://www.wikipedia.org
+
+# Недоступные или некорректные URL
+http//broken-url.com
+https://this-domain-does-not-exist-123456789.com
+https://github.com/non-existent-page-123456789
+http://localhost:9999
+https://example.com/404-page
+
+# URL с разными протоколами
+http://example.com
+https://example.com
+ftp://example.com
+
+# URL с разными доменами
+https://www.microsoft.com
+https://www.apple.com
+https://www.amazon.com
+
+# URL с поддоменами
+https://docs.github.com
+https://cloud.google.com
+https://developer.mozilla.org
+
+# URL с путями
+https://github.com/golang/go
+https://golang.org/pkg/net/http
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
